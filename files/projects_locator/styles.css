@@ -300,7 +300,7 @@
   width:900px;
   height:49px;
   font-family:'OpenSans-Semibold', 'Open Sans Semibold', 'Open Sans';
-  font-weight:600;
+  font-weight:650;
   font-style:normal;
   font-size:36px;
   color:#FFFFFF;
@@ -330,7 +330,7 @@
   width:900px;
   height:33px;
   font-family:'OpenSans-Semibold', 'Open Sans Semibold', 'Open Sans';
-  font-weight:600;
+  font-weight:650;
   font-style:normal;
   font-size:24px;
   color:#FFFFFF;
@@ -721,7 +721,6 @@
   width:760px;
   height:408px;
   font-family:'OpenSans-Semibold', 'Open Sans Semibold', 'Open Sans';
-  font-weight:600;
   font-size:18px;
 }
 #u471_text {
