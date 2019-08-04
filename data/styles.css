@@ -1,4 +1,14 @@
-﻿.ax_default {
+﻿
+::-moz-selection { /* Code for Firefox */
+  color: #01579B;
+  background: #B3E5FC;
+}
+
+::selection {
+  color: #01579B;
+  background: #B3E5FC;
+}
+.ax_default {
   font-family:'ArialMT', 'Arial';
   font-weight:400;
   font-style:normal;
