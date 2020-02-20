@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="28px" viewBox="0 0 70 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>IT logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-61.000000, -167.000000)" fill="#FFFFFF">
+            <g id="IT-logo" transform="translate(61.000000, 167.000000)">
+                <g id="Logo/SIT/Black-Copy-2" transform="translate(44.000000, 0.000000)">
+                    <rect id="Rectangle-2" x="9.24" y="23.8" width="4.1350211" height="4.1350211"></rect>
+                    <polygon id="Rectangle-2" points="0 7 5.19831224 7 5.19831224 28 0 28"></polygon>
+                    <polygon id="Rectangle-2" points="0 0 5.19959991 0 5.19959991 4.69560013 0 4.69560013"></polygon>
+                    <path d="M22.878481,7 L25.76,7 L25.76,11.7152 L22.878481,11.7152 L22.878481,28 L17.6801688,28 L17.6801688,11.7152 L14.56,11.7152 L14.56,7 L17.6801688,7 L17.6801688,0 L22.878481,0 L22.878481,7 Z" id="Combined-Shape"></path>
+                </g>
+                <g id="Logo/Black-Copy-6">
+                    <polygon id="Rectangle-2" points="0 0 5.25 0 5.25 28 0 28"></polygon>
+                    <path d="M22.7903846,5.08016878 L22.7903846,28 L17.4596154,28 L17.4596154,5.08016878 L12.25,5.08016878 L12.25,0 L28,0 L28,5.08016878 L22.7903846,5.08016878 Z" id="Combined-Shape"></path>
+                    <rect id="Rectangle-2" x="9.625" y="23.625" width="4.375" height="4.375"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

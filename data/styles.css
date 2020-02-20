@@ -8,6 +8,7 @@
   color: #01579B;
   background: #B3E5FC;
 }
+
 .ax_default {
   font-family:'ArialMT', 'Arial';
   font-weight:400;
@@ -16,6 +17,8 @@
   color:#333333;
   text-align:center;
   line-height:normal;
+}
+.box_1 {
 }
 .box_2 {
 }
