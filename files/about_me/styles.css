@@ -828,16 +828,18 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u111_text.a {
 }
 #u112.a {
+  left:294px;
 }
 #u112_img.a {
 }
 #u112.a {
+  left:294px;
 }
 body.b {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
   position:relative;
   left:-0px;
-  width:690px;
+  width:375px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -1111,16 +1113,18 @@ body.b {  background-color:rgba(255, 255, 255, 1);
 #u111_text.b {
 }
 #u112.b {
+  left:98px;
 }
 #u112_img.b {
 }
 #u112.b {
+  left:98px;
 }
 body.c {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
   position:relative;
   left:-53px;
-  width:637px;
+  width:375px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -1394,8 +1398,10 @@ body.c {  background-color:rgba(255, 255, 255, 1);
 #u111_text.c {
 }
 #u112.c {
+  left:154px;
 }
 #u112_img.c {
 }
 #u112.c {
+  left:154px;
 }
