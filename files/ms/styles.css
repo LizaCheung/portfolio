@@ -749,7 +749,7 @@
   left:0px;
   top:0px;
   width:230px;
-  height:36px;
+  height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -762,24 +762,22 @@
   font-style:italic;
   font-size:12px;
   color:#026B76;
-  text-align:right;
-  line-height:18px;
+  text-align:center;
 }
 #u570 {
   border-width:0px;
   position:absolute;
   left:820px;
-  top:30px;
+  top:41px;
   width:230px;
-  height:36px;
+  height:17px;
   display:flex;
   font-family:'OpenSans-Italic', 'Open Sans Italic', 'Open Sans', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:12px;
   color:#026B76;
-  text-align:right;
-  line-height:18px;
+  text-align:center;
 }
 #u570 .text {
   position:absolute;
@@ -3209,7 +3207,6 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'OpenSans-Regular', 'Open Sans', sans-serif;
-  font-weight:400;
   font-style:normal;
   font-size:16px;
   color:#049098;
@@ -3224,7 +3221,6 @@
   height:240px;
   display:flex;
   font-family:'OpenSans-Regular', 'Open Sans', sans-serif;
-  font-weight:400;
   font-style:normal;
   font-size:16px;
   color:#049098;
@@ -3257,7 +3253,6 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'OpenSans-Regular', 'Open Sans', sans-serif;
-  font-weight:400;
   font-style:normal;
   font-size:16px;
   color:#049098;
@@ -3272,7 +3267,6 @@
   height:220px;
   display:flex;
   font-family:'OpenSans-Regular', 'Open Sans', sans-serif;
-  font-weight:400;
   font-style:normal;
   font-size:16px;
   color:#049098;
@@ -3296,7 +3290,7 @@
   left:0px;
   top:0px;
   width:250px;
-  height:280px;
+  height:300px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -3305,7 +3299,6 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'OpenSans-Regular', 'Open Sans', sans-serif;
-  font-weight:400;
   font-style:normal;
   font-size:16px;
   color:#049098;
@@ -3317,10 +3310,9 @@
   left:800px;
   top:8650px;
   width:250px;
-  height:280px;
+  height:300px;
   display:flex;
   font-family:'OpenSans-Regular', 'Open Sans', sans-serif;
-  font-weight:400;
   font-style:normal;
   font-size:16px;
   color:#049098;
@@ -4454,7 +4446,7 @@
   left:253px;
   top:9275px;
   width:100px;
-  height:141px;
+  height:163px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
@@ -4952,7 +4944,7 @@ body.d {  background-color:rgba(255, 255, 255, 1);
   left:0px;
   top:0px;
   width:230px;
-  height:36px;
+  height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -4965,8 +4957,7 @@ body.d {  background-color:rgba(255, 255, 255, 1);
   font-style:italic;
   font-size:12px;
   color:#026B76;
-  text-align:right;
-  line-height:18px;
+  text-align:center;
 }
 #u570.d {
 }
@@ -6393,7 +6384,6 @@ body.d {  background-color:rgba(255, 255, 255, 1);
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'OpenSans-Regular', 'Open Sans', sans-serif;
-  font-weight:400;
   font-style:normal;
   font-size:16px;
   color:#049098;
@@ -6424,7 +6414,6 @@ body.d {  background-color:rgba(255, 255, 255, 1);
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'OpenSans-Regular', 'Open Sans', sans-serif;
-  font-weight:400;
   font-style:normal;
   font-size:16px;
   color:#049098;
@@ -6446,7 +6435,7 @@ body.d {  background-color:rgba(255, 255, 255, 1);
   left:0px;
   top:0px;
   width:250px;
-  height:280px;
+  height:300px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -6455,7 +6444,6 @@ body.d {  background-color:rgba(255, 255, 255, 1);
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'OpenSans-Regular', 'Open Sans', sans-serif;
-  font-weight:400;
   font-style:normal;
   font-size:16px;
   color:#049098;
@@ -7069,7 +7057,7 @@ body.e {  background-color:rgba(255, 255, 255, 1);
   left:0px;
   top:0px;
   width:230px;
-  height:36px;
+  height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -7082,8 +7070,7 @@ body.e {  background-color:rgba(255, 255, 255, 1);
   font-style:italic;
   font-size:12px;
   color:#026B76;
-  text-align:right;
-  line-height:18px;
+  text-align:center;
 }
 #u570.e {
 }
@@ -8510,7 +8497,6 @@ body.e {  background-color:rgba(255, 255, 255, 1);
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'OpenSans-Regular', 'Open Sans', sans-serif;
-  font-weight:400;
   font-style:normal;
   font-size:16px;
   color:#049098;
@@ -8541,7 +8527,6 @@ body.e {  background-color:rgba(255, 255, 255, 1);
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'OpenSans-Regular', 'Open Sans', sans-serif;
-  font-weight:400;
   font-style:normal;
   font-size:16px;
   color:#049098;
@@ -8563,7 +8548,7 @@ body.e {  background-color:rgba(255, 255, 255, 1);
   left:0px;
   top:0px;
   width:250px;
-  height:280px;
+  height:300px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -8572,7 +8557,6 @@ body.e {  background-color:rgba(255, 255, 255, 1);
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'OpenSans-Regular', 'Open Sans', sans-serif;
-  font-weight:400;
   font-style:normal;
   font-size:16px;
   color:#049098;
