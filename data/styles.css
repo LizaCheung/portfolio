@@ -8,17 +8,15 @@
   background: #B3E5FC;
 }
 
+
 .ax_default {
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
-  letter-spacing:normal;
   color:#333333;
-  vertical-align:none;
   text-align:center;
   line-height:normal;
-  text-transform:none;
 }
 .box_1 {
 }
@@ -26,46 +24,44 @@
 }
 .box_3 {
 }
-.shape {
-}
 .image {
 }
 .heading_1 {
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
 .heading_2 {
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:24px;
   text-align:left;
 }
 .heading_3 {
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:18px;
   text-align:left;
 }
 .heading_4 {
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:14px;
   text-align:left;
 }
 .heading_5 {
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial';
   font-weight:bold;
   font-style:normal;
   text-align:left;
 }
 .heading_6 {
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:10px;
@@ -85,14 +81,14 @@
 }
 .text_link_mouse_down {
 }
-.form_hint {
-  color:#999999;
-}
-.form_disabled {
-}
 .flow_shape {
 }
 .connector {
+  font-family:'PingFang-SC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:11px;
+  color:#FF06FF;
 }
 .line {
 }
@@ -101,4 +97,3 @@
 .paragraph1 {
   text-align:left;
 }
-textarea, select, input, button { outline: none; }
